@@ -1,0 +1,56 @@
+Licença de Uso do Dash.zip — Código-Fonte Disponível
+Copyright (c) 2026 Moises Melo. Todos os direitos reservados.
+
+O Dash.zip ("Software") é de autoria e propriedade de Moises Melo ("Titular").
+O código-fonte está publicado para consulta. Publicar o código não transfere
+nenhum direito além dos descritos abaixo.
+
+1. CONSULTA
+   Qualquer pessoa pode ler o código-fonte e a documentação deste repositório.
+
+2. USO MEDIANTE LICENÇA COMERCIAL
+   Instalar, executar, implantar, modificar ou usar o Software, no todo ou em
+   parte, para qualquer finalidade exige uma licença comercial válida adquirida
+   do Titular ("Licenciado"). Salvo outro acordo por escrito, cada licença vale
+   para uma instância, operada pelo Licenciado para as próprias operações.
+
+3. O QUE NÃO É PERMITIDO, MESMO COM LICENÇA
+   a) redistribuir, sublicenciar, vender, alugar ou ceder o Software ou cópias
+      dele, modificadas ou não;
+   b) oferecer o Software, ou serviço derivado dele, a terceiros como serviço
+      hospedado, revenda, agência ou plataforma (SaaS) sem acordo por escrito;
+   c) remover ou alterar avisos de autoria, de marca ou desta licença;
+   d) usar o nome ou a marca Dash.zip para outro produto.
+
+4. MODIFICAÇÕES
+   O Licenciado pode modificar a própria cópia para uso na instância licenciada.
+   As modificações continuam sujeitas a esta licença.
+
+5. ATUALIZAÇÕES
+   Atualizações publicadas neste repositório seguem esta licença. O acesso a
+   suporte ou a versões específicas pode depender do plano contratado.
+
+6. AUSÊNCIA DE GARANTIA
+   O Software é fornecido "no estado em que se encontra", sem garantia de
+   qualquer tipo, expressa ou implícita, inclusive de adequação a um fim
+   específico, disponibilidade ou resultado de campanhas e vendas.
+
+7. LIMITAÇÃO DE RESPONSABILIDADE
+   O Titular não responde por danos diretos ou indiretos, lucros cessantes,
+   perda de dados, bloqueio de contas de anúncio ou de pagamento decorrentes do
+   uso do Software, na máxima extensão permitida pela lei.
+
+8. DADOS E CONTAS DE TERCEIROS
+   Cada instância roda na infraestrutura e nas contas do Licenciado (GitHub,
+   Vercel, Supabase, Meta, checkouts), que é o controlador dos dados tratados e
+   responsável por cumprir a LGPD e os termos dessas plataformas.
+
+9. ENCERRAMENTO
+   O descumprimento desta licença encerra automaticamente o direito de uso. O
+   Licenciado deve então parar de usar e apagar as cópias do Software.
+
+10. LEI E FORO
+    Esta licença é regida pelas leis da República Federativa do Brasil.
+
+Para adquirir uma licença ou tratar de usos não previstos aqui, fale com o
+Titular pelos canais oficiais do Dash.zip.

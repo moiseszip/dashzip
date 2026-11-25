@@ -1,0 +1,29 @@
+/* Resultado: grade do modo Personalizar (sobre o CSS do react-grid-layout). */
+.react-grid-item.react-grid-placeholder {
+  background: hsl(var(--primary));
+  opacity: 0.15;
+  border-radius: 0.75rem;
+}
+
+.react-grid-item > .summary-resize-handle {
+  width: 22px;
+  height: 22px;
+  opacity: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: hsl(var(--muted-foreground));
+  background: hsl(var(--background) / 0.9);
+  border: 1px solid hsl(var(--border));
+  border-radius: 6px 0 0.75rem 0;
+  z-index: 2;
+  touch-action: none;
+}
+
+.react-grid-item > .summary-resize-handle::after {
+  display: none;
+}
+
+.react-grid-item > .summary-resize-handle:hover {
+  color: hsl(var(--primary));
+}
